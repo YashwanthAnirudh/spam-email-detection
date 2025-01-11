@@ -4,7 +4,11 @@
 The goal of this project is to develop a machine learning model capable of accurately classifying emails as either spam or not spam (ham) based on their content. The project will leverage labeled email datasets for training and evaluation. The process includes handling the entire machine learning pipeline: text preprocessing, feature extraction using scikit-learn's CountVectorizer, model training with the Multinomial Naive Bayes algorithm, hyperparameter tuning, and performance evaluation. The final model will be saved and deployed to serve as the backend for an automated email spam detection system.
 
 # Project file and Input data
+spam email detection.ipynb contains the python code of the project which includes the Data cleaning , Feature Engineering , Model Building and training.
 
+spam.csv( Input dataset)- contains the dataset that I have used for the project.
+
+saved_model.pkl contains the final saved model in pickle file.
 
 # Process
 
